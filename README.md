@@ -30,6 +30,8 @@ If needed, utilize `Modelrnn/mysqcon.py` to store datasets in a database. Modify
 
 The file `heart.csv` contains data for logistic regression for heart disease prediction. Use this dataset to build a logistic regression model.
 
+The deployed code (Neccessary cannot be imported):https://heart-beat-analysis-noise-reduction-dtvbkzd8m4fjoetpappigqv.streamlit.app/
+
 ## Hospital Statistics
 
 The number of heart patients in a hospital is available in `inpatients.csv`.
