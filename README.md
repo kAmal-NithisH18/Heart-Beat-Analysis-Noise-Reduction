@@ -68,6 +68,3 @@ Necessary images for the application are stored in the `images` folder. An HTML 
 
 Contributions are welcome! Fork the repository, make your changes, and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
