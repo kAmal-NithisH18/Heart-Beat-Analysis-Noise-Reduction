@@ -76,18 +76,27 @@ Necessary images for the application are stored in the `images` folder. An HTML 
 ![Screenshot1](/screenshots/dav3.png)
 
 ### Prediction
-![Screenshot1](/screenshots/dav4.png)
-![Screenshot1](/screenshots/dav5.png)
+<p float="left">
+  <img src="/screenshots/dav4.png" width="500" />
+  <img src="/screenshots/dav5.png" width="500"/>
+</p>
 
 ### Data description
-![Screenshot1](/screenshots/dav6.png)
-![Screenshot1](/screenshots/dav7.png)
-![Screenshot1](/screenshots/dav8.png)
-![Screenshot1](/screenshots/dav9.png)
+<p float="left">
+  <img src="/screenshots/dav6.png" width="500" />
+  <img src="/screenshots/dav7.png" width="500"/>
+</p>
+<p float="left">
+  <img src="/screenshots/dav8.png" width="500" />
+  <img src="/screenshots/dav9.png" width="500"/>
+</p>
 
 ### PLOTS
-![Screenshot1](/screenshots/dav10.png)
-![Screenshot1](/screenshots/dav11.png)
+<p float="left">
+  <img src="/screenshots/dav10.png" width="500" />
+  <img src="/screenshots/dav11.png" width="500"/>
+</p>
+
 ### ACCURACY
 ![Screenshot1](/screenshots/dav12.png)
 
