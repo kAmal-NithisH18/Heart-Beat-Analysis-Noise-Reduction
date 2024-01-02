@@ -66,6 +66,21 @@ Necessary images for the application are stored in the `images` folder. An HTML 
 2. Train models using the provided scripts.
 3. Run `Home.py` to launch the Streamlit application.
 
+## Screenshots
+![Screenshot1](/screenshots/dav1.png)
+![Screenshot1](/screenshots/dav2.png)
+![Screenshot1](/screenshots/dav3.png)
+![Screenshot1](/screenshots/dav4.png)
+![Screenshot1](/screenshots/dav5.png)
+![Screenshot1](/screenshots/dav6.png)
+![Screenshot1](/screenshots/dav7.png)
+![Screenshot1](/screenshots/dav8.png)
+![Screenshot1](/screenshots/dav9.png)
+![Screenshot1](/screenshots/dav10.png)
+![Screenshot1](/screenshots/dav11.png)
+![Screenshot1](/screenshots/dav12.png)
+
+
 ## Contributing
 
 Contributions are welcome! Fork the repository, make your changes, and submit pull requests.
