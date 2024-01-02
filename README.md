@@ -68,27 +68,27 @@ Necessary images for the application are stored in the `images` folder. An HTML 
 
 ## Screenshots
 
-## HOME
+### HOME
 ![Screenshot1](/screenshots/dav1.png)
 ![Screenshot1](/screenshots/dav2.png)
 
-## Types of defects
+### Types of defects
 ![Screenshot1](/screenshots/dav3.png)
 
-# Prediction
+### Prediction
 ![Screenshot1](/screenshots/dav4.png)
 ![Screenshot1](/screenshots/dav5.png)
 
-# Data description
+### Data description
 ![Screenshot1](/screenshots/dav6.png)
 ![Screenshot1](/screenshots/dav7.png)
 ![Screenshot1](/screenshots/dav8.png)
 ![Screenshot1](/screenshots/dav9.png)
 
-# PLOTS
+### PLOTS
 ![Screenshot1](/screenshots/dav10.png)
 ![Screenshot1](/screenshots/dav11.png)
-# ACCURACY
+### ACCURACY
 ![Screenshot1](/screenshots/dav12.png)
 
 
